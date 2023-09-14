@@ -43,7 +43,7 @@ print (d1_y_explicit)
 
 
 t0 = 0
-y0 = 500
+y0 = 100
 vy0 = 0
 S0 = {y.subs(t, t0):y0, d1_y.subs(t, t0):vy0}
 
